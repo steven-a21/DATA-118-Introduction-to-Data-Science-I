@@ -1,0 +1,312 @@
+act-avg,sat-avg,enrollment,acceptance-rate,rankingDisplayScore,percent-receiving-aid,cost-after-aid,tuition,displayName,overallRank,institutionalControl
+32,1400,5400,7,100,60,16793,47140,Princeton University,1,private
+32,1430,6710,5,98,55,16338,48949,Harvard University,2,private
+32,1450,5941,8,96,42,27767,54825,University of Chicago,3,private
+32,1420,5472,6,96,50,18385,51400,Yale University,3,private
+32,1430,6113,6,95,48,21041,57208,Columbia University,5,private
+33,1460,4524,8,95,58,20331,49892,Massachusetts Institute of Technology,5,private
+31,1380,7034,5,95,47,19296,49617,Stanford University,5,private
+32,1380,10019,9,93,47,25441,53534,University of Pennsylvania,8,private
+31,1380,6609,11,92,41,23374,53744,Duke University,9,private
+34,1510,979,8,91,51,23973,49908,California Institute of Technology,10,private
+30,1350,4310,11,90,50,23312,52950,Dartmouth College,11,private
+32,1420,6117,12,90,45,30067,52170,Johns Hopkins University,11,private
+32,1400,8353,11,90,43,31087,52678,Northwestern University,11,private
+31,1370,6926,9,86,41,24482,53419,Brown University,14,private
+31,1330,14566,14,86,44,28068,52853,Cornell University,14,private
+32,1410,3893,15,86,37,23996,45608,Rice University,14,private
+32,1420,6871,11,86,46,23323,47664,Vanderbilt University,14,private
+32,1350,8530,19,85,47,29653,51505,University of Notre Dame,18,private
+32,1400,7540,17,85,41,29245,51533,Washington University in St. Louis,18,private
+30,1320,7453,17,80,34,29667,52300,Georgetown University,20,private
+30,1290,6861,25,78,42,24264,49392,Emory University,21,private
+29,1300,29311,16,78,23,49614,42112,University of California--Berkeley,21,public
+25,1160,30873,18,78,15,42896,41270,University of California--Los Angeles,21,public
+30,1280,18794,17,78,33,33112,54259,University of Southern California,21,private
+31,1380,6673,22,76,40,33550,53910,Carnegie Mellon University,25,private
+29,1240,16331,30,76,28,28079,46975,University of Virginia,25,public
+28,1240,4955,30,75,30,24241,51400,Wake Forest University,27,private
+29,1310,28983,29,74,25,32856,47476,University of Michigan--Ann Arbor,28,public
+31,1370,5508,14,72,34,27034,54318,Tufts University,29,private
+29,1250,26135,32,71,46,41783,50464,New York University,30,private
+27,1190,18523,27,71,41,17815,34588,University of North Carolina--Chapel Hill,30,public
+30,1260,9309,31,70,35,30170,53346,Boston College,32,private
+28,1250,6276,37,70,21,42153,43099,College of William and Mary,32,public
+29,1270,3608,33,68,47,29288,53582,Brandeis University,34,private
+30,1320,15489,26,68,15,39518,33014,Georgia Institute of Technology,34,public
+29,1250,6386,38,68,51,28476,52020,University of Rochester,34,private
+28,1220,17944,29,67,36,34539,52082,Boston University,37,private
+30,1280,5152,35,67,48,35248,47500,Case Western Reserve University,37,private
+25,1140,21574,36,67,8,44849,42423,University of California--Santa Barbara,37,public
+31,1330,13473,29,66,34,38521,49497,Northeastern University,40,private
+29,1250,6377,26,66,31,35111,52960,Tulane University,40,private
+28,1280,6265,44,65,61,35125,52305,Rensselaer Polytechnic Institute,42,private
+,1060,27331,41,65,6,43506,43530,University of California--Irvine,42,public
+25,1140,28127,36,65,7,42933,44197,University of California--San Diego,42,public
+27,1180,34554,46,65,20,36825,28658,University of Florida,42,public
+29,1230,5080,26,64,38,25376,50740,Lehigh University,46,private
+26,1110,3542,37,64,51,32416,51992,Pepperdine University,46,private
+24,1050,29546,42,64,9,44075,42396,University of California--Davis,46,public
+28,1210,10849,38,64,33,34479,48484,University of Miami,46,private
+27,1234,31710,53,64,16,36113,34782,University of Wisconsin--Madison,46,public
+30,1220,6999,44,64,44,35459,51434,Villanova University,46,private
+25,1090,41359,56,63,14,41789,33664,Pennsylvania State University--University Park,52,public
+26,1280,33932,60,63,9,35977,31988,University of Illinois--Urbana-Champaign,52,public
+27,1160,45831,54,62,9,37032,29659,Ohio State University--Columbus,54,public
+26,1140,27951,54,62,13,30943,30392,University of Georgia,54,public
+27,1180,11504,40,61,43,37996,53518,George Washington University,56,private
+25,1080,30043,56,61,16,28383,28804,Purdue University--West Lafayette,56,public
+26,1130,19324,49,61,33,37427,36948,University of Connecticut,56,public
+26,1140,40168,40,61,7,40558,35766,University of Texas--Austin,56,public
+26,1120,30933,45,61,20,47746,35538,University of Washington,56,public
+27,1160,30979,51,60,38,13186,5460,Brigham Young University--Provo,61,private
+27,1170,9258,45,60,,,50601,Fordham University,61,private
+28,1220,6521,49,60,24,47874,52498,Southern Methodist University,61,private
+25,1090,15218,52,60,48,33912,46755,Syracuse University,61,private
+28,1210,28472,48,60,20,36786,33606,University of Maryland--College Park,61,public
+28,1200,4432,48,60,62,39995,48628,Worcester Polytechnic Institute,61,private
+26,1150,18599,51,59,7,38923,35654,Clemson University,67,public
+27,1190,19123,55,58,,,30642,University of Pittsburgh,68,public
+26,1150,7901,26,57,46,36076,46615,American University,69,private
+,1110,36168,57,57,13,40121,30023,Rutgers University--New Brunswick,69,public
+29,1260,3021,39,57,40,51810,50554,Stevens Institute of Technology,69,private
+24,1070,50735,66,57,41,26376,30208,Texas A&M University--College Station,69,public
+26,1180,34871,44,57,23,28170,26603,University of Minnesota--Twin Cities,69,public
+,1100,25791,71,57,,,29371,Virginia Tech,69,public
+26,1120,14348,40,56,53,36761,43790,Baylor University,75,private
+29,1250,4612,40,56,21,47042,37436,Colorado School of Mines,75,public
+25,1130,23373,60,56,35,35445,33662,University of Massachusetts--Amherst,75,public
+26,1130,16981,65,55,10,42507,32768,Miami University--Oxford,78,public
+25,1070,8891,38,55,35,33953,44760,Texas Christian University,78,private
+23,1020,24476,84,55,34,32794,28813,University of Iowa,78,public
+27,1110,2289,55,54,62,27702,44400,Clark University,81,private
+25,1110,32929,58,54,27,34036,21673,Florida State University,81,public
+24,990,39090,66,54,5,47279,39405,Michigan State University,81,public
+27,1170,23847,46,54,41,25623,27406,North Carolina State University--Raleigh,81,public
+23,1060,16962,59,54,18,47616,42042,University of California--Santa Cruz,81,public
+23,1090,18374,65,54,,,32250,University of Delaware,81,public
+28,1230,13632,41,53,54,29356,24403,Binghamton University--SUNY,87,public
+26,1110,5754,53,53,40,31393,48669,University of Denver,87,private
+26,1120,3406,37,53,15,49957,39502,University of Tulsa,87,private
+24,1060,39184,79,52,16,37563,34845,Indiana University--Bloomington,90,public
+24,1040,8238,74,52,55,32894,39900,Marquette University,90,private
+25,1070,27846,77,52,12,41125,35079,University of Colorado--Boulder,90,public
+26,1100,5711,51,52,48,36861,47708,University of San Diego,90,private
+25,1080,13251,75,51,54,42176,52002,Drexel University,94,private
+24,1120,7454,65,51,51,28328,42166,Saint Louis University,94,private
+23,1090,2714,51,51,46,34756,42000,Yeshiva University,94,private
+26,1140,12410,55,50,70,31793,40068,Rochester Institute of Technology,97,private
+26,1150,17026,41,50,13,34024,26297,Stony Brook University--SUNY,97,public
+23,1070,1755,54,50,,,18090,SUNY College of Environmental Science and Forestry,97,public
+24,1070,20411,59,50,28,37040,26270,University at Buffalo--SUNY,97,public
+23,1060,22436,71,50,13,35144,24443,University of Oklahoma,97,public
+25,1100,11159,69,50,48,36399,41356,University of Vermont,97,public
+24,1060,22658,81,49,16,39912,29640,Auburn University,103,public
+26,1130,2944,57,49,62,29116,45864,Illinois Institute of Technology,103,private
+24,1030,11129,73,49,64,38093,42828,Loyola University Chicago,103,private
+22,990,12871,76,49,56,34826,32637,University of New Hampshire,103,public
+22,980,20049,78,49,7,42682,34611,University of Oregon,103,public
+25,1120,25556,68,49,8,41810,32362,University of South Carolina,103,public
+24,1040,22139,77,49,33,39170,31160,University of Tennessee,103,public
+22,1040,5899,30,48,50,33124,25697,Howard University,110,private
+23,980,32563,53,48,27,26861,28100,University of Alabama,110,public
+23,1030,6745,71,48,46,42433,46250,University of San Francisco,110,private
+23,1030,3483,66,48,67,37188,46346,University of the Pacific,110,private
+21,1050,23789,76,48,11,35873,26408,University of Utah,110,public
+22,1020,42477,83,47,31,37446,27372,Arizona State University--Tempe,115,public
+22,980,30671,87,47,34,27241,22256,Iowa State University,115,public
+24,1050,29275,52,47,37,35109,27266,Temple University,115,public
+23,,19262,93,47,30,30962,26592,University of Kansas,115,public
+24,1050,6111,83,47,55,34299,41133,University of St. Thomas,115,private
+23,1040,3241,80,46,54,35518,44060,The Catholic University of America,120,private
+22,1030,15407,70,46,59,42438,39010,DePaul University,120,private
+24,1055,6039,74,46,65,29185,36394,Duquesne University,120,private
+23,1020,25898,75,46,33,27962,26506,University of Missouri,120,public
+24,1080,3268,68,45,79,33669,47950,Clarkson University,124,private
+22,1020,25177,78,45,16,39497,29140,Colorado State University,124,public
+25,1073,5829,76,45,28,38217,32318,Michigan Technological University,124,public
+23,1070,5956,67,45,,,40588,Seton Hall University,124,private
+21,970,34072,79,45,29,35051,32449,University of Arizona,124,public
+21,940,19799,66,45,15,41753,41931,University of California--Riverside,124,public
+24,1030,8330,60,45,46,34204,41750,University of Dayton,124,private
+22,990,20833,75,45,21,28968,23256,University of Nebraska--Lincoln,124,public
+24,1070,6899,62,44,61,40205,43960,Hofstra University,132,private
+23,1010,26118,76,43,14,40711,28051,Louisiana State University--Baton Rouge,133,public
+25,1100,4706,69,43,67,26615,36000,Mercer University,133,private
+23,1030,7014,60,43,41,50853,47330,The New School,133,private
+,910,8170,65,43,26,38949,29480,Rutgers University--Newark,133,public
+23,1010,22548,63,43,16,33514,24308,University of Arkansas,133,public
+23,1030,25860,76,43,28,35124,26334,University of Cincinnati,133,public
+22,980,22621,91,43,,,28046,University of Kentucky,133,public
+24,1060,23812,81,42,39,38588,34370,George Mason University,140,public
+23,1110,8211,59,42,35,18674,31034,New Jersey Institute of Technology,140,public
+23,1000,29853,35,42,32,31354,19340,San Diego State University,140,public
+24,1070,31461,47,42,25,23103,17324,University of South Florida,140,public
+20,930,24904,72,42,37,30666,25817,Washington State University,140,public
+22,950,19472,94,41,22,34621,24775,Kansas State University,145,public
+22,990,25327,77,41,34,36636,29457,Oregon State University,145,public
+22,970,2786,65,41,81,28750,33120,St. John Fisher College,145,private
+21,990,17959,74,41,31,39033,27672,University of Illinois--Chicago,145,public
+22,1000,19213,78,41,24,27943,23554,University of Mississippi,145,public
+25,1140,17350,68,41,28,37028,33654,University of Texas--Dallas,145,public
+22,1010,5205,70,40,,,37170,Adelphi University,151,private
+24,1060,3629,61,40,,,41240,Florida Institute of Technology,151,private
+21,990,23788,75,40,,,21360,Ohio University,151,public
+21,990,3095,87,40,,,40893,Seattle Pacific University,151,private
+22,1010,13139,54,40,,,24358,University at Albany--SUNY,151,public
+21,970,21093,75,39,,,23776,Oklahoma State University,156,public
+24,1070,13639,60,39,,,31865,University of Massachusetts--Lowell,156,public
+22,990,14801,71,39,,,28874,University of Rhode Island,156,public
+21,950,4091,65,38,,,38448,Biola University,159,private
+21,,18643,89,38,,,25168,Illinois State University,159,public
+21,965,12369,89,38,,,23790,University of Alabama--Birmingham,159,public
+21,970,13132,80,38,,,33764,University of Hawaii--Manoa,159,public
+20,930,2809,48,38,,,41450,University of La Verne,159,private
+24,1120,11142,57,38,,,25654,University of Maryland--Baltimore County,159,public
+18,860,1555,82,37,,,27350,Immaculata University,165,private
+22,900,2967,93,37,,,28470,Maryville University of St. Louis,165,private
+25,1186,6909,79,37,,,27701,Missouri University of Science & Technology,165,public
+22,970,16440,63,37,,,40790,St. John's University,165,private
+18,860,6815,74,37,,,41612,University of California--Merced,165,public
+22,1000,15827,73,37,,,26286,University of Louisville,165,public
+21,990,18090,71,36,,,22358,Mississippi State University,171,public
+,990,14344,58,36,,,21378,Rowan University,171,public
+24,1080,55776,50,36,,,22467,University of Central Florida,171,public
+21,930,9586,76,36,,,23812,University of Idaho,171,public
+21,980,24212,75,36,,,32942,Virginia Commonwealth University,171,public
+21,950,23684,85,35,,,18376,Kent State University,176,public
+21,940,4384,80,35,,,29420,Robert Morris University,176,private
+22,1020,29963,63,35,,,23011,Texas Tech University,176,public
+23,1020,2214,63,35,,,31580,Union University,176,private
+20,920,5150,72,35,,,38910,University of Hartford,176,private
+21,955,1661,78,34,,,28500,Edgewood College,181,private
+21,960,1929,64,34,,,26550,Lesley University,181,private
+22,990,2986,61,34,,,30932,Lipscomb University,181,private
+20,910,5290,84,34,,,37270,Suffolk University,181,private
+21,950,9323,90,34,,,30282,University of Maine,181,public
+21,960,9788,95,34,,,16827,University of Wyoming,181,public
+21,930,5770,84,33,,,36120,Azusa Pacific University,187,private
+20,990,17011,62,33,,,25938,Ball State University,187,public
+15,870,16810,66,33,,,20566,Montclair State University,187,public
+21,940,8914,84,33,,,44036,Pace University,187,private
+21,930,22350,76,33,,,23616,West Virginia University,187,public
+21,930,1688,40,32,,,28436,Andrews University,192,private
+19,890,21748,74,32,,,29806,Indiana University-Purdue University--Indianapolis,192,public
+23,1040,35871,59,32,,,27337,University of Houston,192,public
+19,950,20215,47,32,,,22412,University of New Mexico,192,public
+21,960,11255,84,32,,,21462,University of North Dakota,192,public
+21,930,3591,70,32,,,44166,Widener University,192,private
+18,820,12027,60,31,,,22701,New Mexico State University,198,public
+21,1000,12010,93,31,,,20571,North Dakota State University,198,public
+22,1000,4295,53,31,,,29940,Nova Southeastern University,198,private
+22,1030,23404,62,31,,,20268,University of North Carolina--Charlotte,198,public
+20,920,14852,75,30,,,18593,Bowling Green State University,202,public
+19,920,34576,48,30,,,17460,California State University--Fullerton,202,public
+19,1030,3223,43,30,,,27480,Dallas Baptist University,202,private
+21,960,12847,69,30,,,32985,University of Massachusetts--Boston,202,public
+21,970,18191,83,30,,,21787,University of Nevada--Reno,202,public
+20,890,19923,72,29,,,23670,Central Michigan University,207,public
+20,970,22969,70,29,,,23420,East Carolina University,207,public
+19,900,7769,31,29,,,17725,Florida A&M University,207,public
+21,1010,14400,83,29,,,23042,Montana State University,207,public
+19,950,7239,73,29,,,23534,University of Alaska--Fairbanks,207,public
+21,960,14622,61,29,,,31209,University of Colorado--Denver,207,public
+20,910,6999,76,29,,,28285,University of Massachusetts--Dartmouth,207,public
+20,950,10077,92,29,,,24943,University of Montana,207,public
+19,,18313,82,29,,,14699,Western Michigan University,207,public
+23,1030,45813,49,28,,,18956,Florida International University,216,public
+21,980,11281,63,28,,,18438,Louisiana Tech University,216,public
+20,890,10959,91,28,,,11403,South Dakota State University,216,public
+19,880,12182,77,28,,,13936,Southern Illinois University--Carbondale,216,public
+25,1060,6507,76,28,,,21480,University of Alabama--Huntsville,216,public
+21,980,11708,62,28,,,25999,University of Missouri--Kansas City,216,public
+20,980,24838,90,28,,,20726,Utah State University,216,public
+20,950,4536,72,27,,,20700,Ashland University,223,private
+20,,3171,73,27,,,33900,Benedictine University,223,private
+16,800,21528,54,27,,,17929,California State University--Fresno,223,public
+18,870,2362,52,27,,,30740,Gardner-Webb University,223,private
+20,950,25455,53,27,,,29432,Georgia State University,223,public
+19,880,2099,88,27,,,31920,Shenandoah University,223,private
+19,830,7500,88,27,,,11688,University of South Dakota,223,public
+20,983,17280,68,27,,,28590,Wayne State University,223,public
+16,790,1424,64,,,,33140,American International College,-1,private
+,930,5133,74,,,,23606,Augusta University,-1,public
+18,850,3541,62,,,,29700,Barry University,-1,private
+20,910,20209,82,,,,22642,Boise State University,-1,public
+18,973,1534,82,,,,28844,Cardinal Stritch University,-1,private
+18,820,3093,72,,,,23082,Clark Atlanta University,-1,private
+19,890,12433,88,,,,13848,Cleveland State University,-1,public
+19,910,17541,73,,,,11530,Eastern Michigan University,-1,public
+20,920,11065,80,,,,26463,East Tennessee State University,-1,public
+20,950,25402,60,,,,21595,Florida Atlantic University,-1,public
+22,1030,18005,65,,,,18692,Georgia Southern University,-1,public
+,,,43,,,,17050,Grand Canyon University,-1,proprietary
+16,790,11202,86,,,,19454,Indiana State University,-1,public
+,840,10618,92,,,,15882,Indiana University of Pennsylvania,-1,public
+16,810,7492,69,,,,17614,Jackson State University,-1,public
+21,1000,32166,59,,,,21158,Kennesaw State University,-1,public
+18,860,9326,76,,,,22561,Lamar University,-1,public
+21,950,47050,28,,,,24304,Liberty University,-1,private
+20,920,7549,55,,,,16960,Lindenwood University,-1,private
+19,950,19693,69,,,,27578,Middle Tennessee State University,-1,public
+16,800,6362,60,,,,17833,Morgan State University,-1,public
+,,,81,,,,10380,National Louis University,-1,private
+18,850,9668,54,,,,19416,North Carolina A&T State University,-1,public
+20,940,26506,78,,,,24841,Northern Arizona University,-1,public
+19,,14079,52,,,,23817,Northern Illinois University,-1,public
+20,805,16568,86,,,,24735,Oakland University,-1,public
+18,890,19793,85,,,,28200,Old Dominion University,-1,public
+19,930,21633,89,,,,21180,Portland State University,-1,public
+15,750,7455,85,,,,10059,Prairie View A&M University,-1,public
+19,920,3806,83,,,,17450,Regent University,-1,private
+19,870,17902,72,,,,22340,Sam Houston State University,-1,public
+18,860,25945,68,,,,19134,San Francisco State University,-1,public
+18,,,50,,,,24388,Spalding University,-1,private
+16,788,7007,53,,,,20178,Tennessee State University,-1,public
+21,960,9437,67,,,,26190,Tennessee Technological University,-1,public
+17,850,7605,45,,,,20884,Texas A&M University--Commerce,-1,public
+17,850,10212,86,,,,26061,Texas A&M University--Corpus Christi,-1,public
+17,850,6811,82,,,,20912,Texas A&M University--Kingsville,-1,public
+15,715,6562,51,,,,21240,Texas Southern University,-1,public
+20,930,34244,71,,,,23071,Texas State University,-1,public
+17,820,10408,86,,,,21816,Texas Woman's University,-1,public
+19,930,2092,72,,,,25100,Trevecca Nazarene University,-1,private
+19,880,1076,88,,,,30750,Trinity International University,-1,private
+19,910,17416,96,,,,21863,University of Akron,-1,public
+19,930,9374,77,,,,19797,University of Arkansas--Little Rock,-1,public
+21,940,15998,52,,,,23074,University of Louisiana--Lafayette,-1,public
+19,920,7778,86,,,,20381,University of Louisiana--Monroe,-1,public
+17,790,3278,38,,,,18048,University of Maryland--Eastern Shore,-1,public
+19,890,17176,94,,,,21413,University of Memphis,-1,public
+21,940,13923,71,,,,27327,University of Missouri--St. Louis,-1,public
+19,930,12536,86,,,,22035,University of Nebraska--Omaha,-1,public
+19,900,24714,83,,,,21498,University of Nevada--Las Vegas,-1,public
+20,950,6442,60,,,,13530,University of New Orleans,-1,public
+21,910,16281,74,,,,22410,University of North Carolina--Greensboro,-1,public
+19,930,9503,90,,,,20474,University of Northern Colorado,-1,public
+20,980,31209,72,,,,23716,University of North Texas,-1,public
+20,875,11761,80,,,,19586,University of South Alabama,-1,public
+20,940,11779,60,,,,9854,University of Southern Mississippi,-1,public
+20,950,32775,70,,,,25152,University of Texas--Arlington,-1,public
+17,810,20521,100,,,,21396,University of Texas--El Paso,-1,public
+18,850,24433,63,,,,17230,University of Texas--Rio Grande Valley,-1,public
+20,920,24724,76,,,,23379,University of Texas--San Antonio,-1,public
+19,860,3082,71,,,,23000,University of the Cumberlands,-1,private
+20,920,16247,94,,,,18578,University of Toledo,-1,public
+21,930,10082,41,,,,18628,University of West Florida,-1,public
+18,870,11155,59,,,,20406,University of West Georgia,-1,public
+20,,21375,72,,,,19851,University of Wisconsin--Milwaukee,-1,public
+19,890,8780,65,,,,17196,Valdosta State University,-1,public
+21,915,11823,92,,,,17270,Wichita State University,-1,public
+18,930,12504,95,,,,17350,Wright State University,-1,public
+,,1264,,,,,17510,Alliant International University,-2,private
+,,,,,,,13152,Argosy University,-2,proprietary
+,,,,,,,28467,California Institute of Integral Studies,-2,private
+,,,,,,,13998,Capella University,-2,proprietary
+,,,,,,,21023,Idaho State University,-2,public
+,,133,,,,,10368,Northcentral University,-2,proprietary
+,,,96,,,,9000,Trident University International,-2,proprietary
+,,,,,,,12416,Union Institute and University,-2,private
+,,,,,,,9690,University of Phoenix,-2,proprietary
+,,,,,,,12075,Walden University,-2,proprietary
+,,8873,100,,,,10940,Wilmington University,-2,private
